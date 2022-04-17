@@ -1,2 +1,2 @@
 # MadLoader
-![MadLoader-Picture](https://madloader.bymynix.xyz/assets/images/MadLoader-Picture.png)
+![MadLoader-Picture](https://bymynix.de/madloader/assets/images/MadLoader-Picture.png)
